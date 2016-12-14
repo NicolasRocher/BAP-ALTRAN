@@ -21,9 +21,9 @@
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li><a id="navtop" href="#">Accueil</a></li>
-        <li><a id="navtop" href="#">Découvrez-Sister</a></li>
-        <li><a id="navtop" href="#">A propos</a></li>
+        <li><a href="index.php">Accueil</a></li>
+        <li><a href="projet.php">Découvrez-Sister</a></li>
+        <li><a href="propos.php">A propos</a></li>
       </ul>
     </div>
   </div>
