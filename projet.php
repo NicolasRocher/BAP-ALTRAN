@@ -2,7 +2,7 @@
 <section id="first">
     <div class="panel panel-default" style="background-color: #B4D744; border-radius: 0px !important; margin-top: 10px; ">
         <div class="panel-body text-center">
-        <p style="font-size: 15px;"><b>Le Projet <big>SISTER</big></b></p>
+        <p style="font-size: 15px; margin-top: 20px;"><b>Le Projet <big>SISTER</big></b></p>
         </div>
     </div>
 	<div class="container">
@@ -38,6 +38,7 @@
 </section>
 <hr style="border-top: double #B4D744 ;width: 80%;">
 <section>
+    <div class="text-center"><h2> La Vidéo du Projet </h2></div>
     <div class="well" style="width: 70%; margin-left: 15%; background-color : #B4D744;">
 	    <iframe style="margin-left: 16%;"" width="560" height="315" src="https://www.youtube.com/embed/fAxalCUPzFI" frameborder="0" allowfullscreen>
         </iframe>
