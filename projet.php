@@ -5,7 +5,7 @@
         <p style="font-size: 15px; margin-top: 20px;"><b>Le Projet <big>SISTER</big></b></p>
         </div>
     </div>
-	<div class="container">
+    <div class="container">
         <div class="row">
             <div class="col-md-6 text-center">
                     <p style="margin-top: 100px;">
@@ -13,9 +13,11 @@
                     </p>
             </div>
             <div class="col-md-6">
+                <div class="img-circle">
                 <div class="item">
-            	    <img src="http://exruefrontenac.com/images6/paysage-de-coucher-de-soleil-8.jpg" style="width: 100%;">
-            	</div>
+                    <img src="img/discover1.png" style="width: 50%; margin-left: 20%;">
+                </div>
+                </div>
             </div>
         </div>
     </div>
@@ -23,9 +25,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-            	<div class="item">
-            	    <img src="http://exruefrontenac.com/images6/paysage-de-coucher-de-soleil-8.jpg" style="width: 100%;">
-            	</div>
+                <div class="item">
+                    <img src="img/discover2.png" style="width: 50%; margin-left: 28%;">
+                </div>
             </div>
             <div class="col-md-6 text-center">
                     <p style="margin-top: 100px;">
@@ -40,7 +42,7 @@
 <section>
     <div class="text-center"><h2> La Vidéo du Projet </h2></div>
     <div class="well" style="width: 70%; margin-left: 15%; background-color : #B4D744;">
-	    <iframe style="margin-left: 16%;"" width="560" height="315" src="https://www.youtube.com/embed/fAxalCUPzFI" frameborder="0" allowfullscreen>
+        <iframe style="margin-left: 16%;"" width="560" height="315" src="https://www.youtube.com/embed/fAxalCUPzFI" frameborder="0" allowfullscreen>
         </iframe>
     </div>
 </section>
