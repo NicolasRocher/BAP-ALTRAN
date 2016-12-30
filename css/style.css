@@ -10,7 +10,9 @@
 
 /* Code pour la page Decouvrez*/
 
-
+.item{
+  border: none !important;
+}
 .item img {
   max-width: 100%;
   -moz-transition: all 0.3s;
