@@ -14,8 +14,8 @@
             </div>
             <div class="col-md-6">
                 <div class="img-circle">
-                <div class="item">
-                    <img src="img/discover1.png" style="width: 50%; margin-left: 20%;">
+                <div class="item" style="border: none !important;">
+                    <img src="img/discover1.png" style="width: 50%; margin-left: 20%;border: none !important;">
                 </div>
                 </div>
             </div>
@@ -25,7 +25,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <div class="item">
+                <div class="item" style="border: none !important;">
                     <img src="img/discover2.png" style="width: 50%; margin-left: 28%;">
                 </div>
             </div>
