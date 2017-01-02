@@ -40,9 +40,10 @@
 </section>
 <hr style="border-top: double #B4D744 ;width: 80%;">
 <section>
-    <div class="text-center"><h2> La Vidéo du Projet </h2></div>
-    <div class="well" style="width: 70%; margin-left: 15%; background-color : #B4D744;">
-        <iframe style="margin-left: 16%;"" width="560" height="315" src="https://www.youtube.com/embed/fAxalCUPzFI" frameborder="0" allowfullscreen>
+    <div class="text-center"><h3> La Vidéo du Projet :</h3></div>
+    <br>
+    <div class="well" style="width: 50%; margin-left: 25%; background-color : #B4D744;">
+        <iframe style="margin-left: 3%;"" width="560" height="315" src="https://www.youtube.com/embed/fAxalCUPzFI" frameborder="0" allowfullscreen>
         </iframe>
     </div>
 </section>
