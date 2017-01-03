@@ -1,97 +1,47 @@
 <?php include "header.php" ?>
-  <section id="dah">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <h2>Domaine d'application de l'hydrogène</h2>
-        </div>
-      </div>
-    </div>
 
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 text-center">
-          <img src="img/picto1.png" class="img-circle" height="150px">
-          <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
-        </div>
-        <div class="col-md-6 text-center">
-          <img src="img/picto2.png" class="img-circle" height="150px">
-          <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
-        </div>
-      </div>
-    </div>
-      <hr>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <img src="img/picto3.png" class="img-circle" height="150px">
-          <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
-        </div>
-      </div>
-    </div>
-  </section>
 
-  <section id="cible">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <h2>Cibles</h2>
-          <img src="img/cible.png" height="350px">
-        </div>
-      </div>
-    </div>
-  </section>
 
-  <section id="objectif">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <h2>Objectifs</h2>
-        </div>
+<!-- HOME -->
+<div id="home" class="content-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1>SISTER</h1>
+        <h5>PERSONAL PROJECT</h5>
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 text-center">
-          <img src="img/target.png" class="img-circle" height="150px">
-          <h3>Objectif 1</h3>
-          <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </div>
-        <div class="col-md-6 text-center">
-          <img src="img/target.png" class="img-circle" height="150px">
-          <h3>Objectif 2</h3>
-          <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </div>
-      </div>
-    </div>
-  </section>
+  </div>
+</div>
 
-  <section id="enjeux">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <h2>Enjeux</h2>
-        </div>
+
+<!-- ABOUT -->
+<div id="about" class="content-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8 col-lg-7">
+        <h1>ABOUT</h1>
+        <p class="lead">Objective: Build a CodePen.io app that successfully reverse-engineers <a href="http://codepen.io/ThiagoFerreir4/full/eNMxEp" target="_blank">this <em class="fa fa-external-link"></em></a></p>
+        <p><strong>Rule #1:</strong> Don't look at the example project's code on CodePen. Figure it out for yourself.</p>
+        <p><strong>Rule #2:</strong> You may use whichever libraries or APIs you need.</p>
+        <p><strong>Rule #3:</strong> Reverse engineer the example project's functionality, and also feel free to personalize it.</p>
+        <p><strong>Hint:</strong> If you don't want to start from scratch, you can fork this simple Bootstrap portfolio template on <a href="http://codepen.io/FreeCodeCamp/pen/mJNqQj" target="_blank">CodePen <em class="fa fa-external-link"></em></a></p>
+        <p>Here are the user stories you must enable, and optional bonus user stories:</p>
+        <p><strong>User Story:</strong> As a user, I can access all of the portfolio webpage's content just by scrolling.</p>
+        <p><strong>User Story:</strong> As a user, I can click different buttons that will take me to the portfolio creator's different social media pages.</p>
+        <p><strong>User Story:</strong> As a user, I can see thumbnail images of different projects the portfolio creator has built (if you haven't built any websites before, use placeholders.)</p>
+        <p><strong>Bonus User Story:</strong> As a user, I navigate to different sections of the webpage by clicking buttons in the navigation.</p>
+        <p>Don't worry if you don't have anything to showcase on your portfolio yet - you will build several apps on the next few CodePen challenges, and can come back and update your portfolio later.</p>
+        <p>There are many great portfolio templates out there, but for this challenge, you'll need to build a portfolio page yourself. Using Bootstrap will make this much easier for you.</p>
+        <blockquote>
+          <p>Remember to use <mark><em>Read-Search-Ask</em></mark> if you get stuck.</p>
+        </blockquote>
+        <p>When you are finished, click the <strong>"I've completed this challenge"</strong> button and include a link to your CodePen. If you pair programmed, you should also include the Free Code Camp username of your pair.</p>
+      </div>
+      <div class="col-sm-4 col-lg-5 hidden-xs">
+        <img src="img/logo.png" alt="" class="pull-right img-responsive">
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4 text-center">
-          <img src="img/enjeux.png" class="img-circle" height="150px">
-          <h2>Enjeux 1</h2>
-          <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </div>
-        <div class="col-md-4 text-center">
-          <img src="img/enjeux.png" class="img-circle" height="150px">
-          <h2>Enjeux 2</h2>
-          <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </div>
-        <div class="col-md-4 text-center">
-          <img src="img/enjeux.png" class="img-circle" height="150px">
-          <h2>Enjeux 3</h2>
-          <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </div>
-      </div>
-    </div>
-  </section>
+  </div>
+</div>
 <?php include "footer.php" ?>
