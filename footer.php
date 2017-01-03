@@ -1,38 +1,45 @@
-<footer style="background-color: #bdc3c7;">
-<div class="container-fluid" style="color: grey;">
-  <h2 class="text-center">Sister</h2>
-  <div class="row">
-  <div class="com-md-12">
-    <div class="col-md-4">
-      <p>Contactez-Nous</p>
-      <p><span class="glyphicon glyphicon-map-marker"></span> Paris, France</p>
-      <p><span class="glyphicon glyphicon-phone"></span>01 30 67 48 00</p>
-      <p><span class="glyphicon glyphicon-envelope"></span> altranl@gmail.com</p> 
+<footer class="footer-distributed">
+    <div class="footer-left">
+        <img class="img-footer" src=" width="100%">
     </div>
-    <div class="col-md-4">
-      <p>Contactez-Nous</p>
-      <p><span class="glyphicon glyphicon-map-marker"></span> Paris, France</p>
-      <p><span class="glyphicon glyphicon-phone"></span>01 30 67 48 00</p>
-      <p><span class="glyphicon glyphicon-envelope"></span> altranl@gmail.com</p> 
+    <div class="footer-center">
+        <div>
+            <i class="fa fa-map-marker"></i>
+            <p><span>rue, département...</span> Paris, France</p>
+        </div>
+        <div>
+            <i class="fa fa-phone"></i>
+            <p>01 30 67 48 00</p>
+        </div>
+        <div>
+            <i class="fa fa-envelope"></i>
+            <p><a href="contact@adopteunpoivrot.fr">altranl@gmail.com</a></p>
+        </div>
     </div>
-        <div class="col-md-4">
-      <div class="row">
-        <div class="col-sm-6 form-group">
-          <input class="form-control" id="name" name="name" placeholder="Nom" type="text" required>
+    <div class="footer-right">
+        <p class="footer-company-about">
+            <span>A propos de nous :</span>
+            Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce euismod convallis velit, eu auctor lacus
+            vehicula sit amet.
+        </p>
+        <div class="footer-icons">
+            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
         </div>
-        <div class="col-sm-6 form-group">
-          <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
-        </div>
-      </div>
-      <textarea class="form-control" id="comments" name="comments" placeholder="Message" rows="5"></textarea><br>
-      <div class="row">
-        <div class="col-sm-12 form-group">
-          <button class="btn btn-default pull-right" type="submit">Envoyer</button>
-        </div>
-      </div> 
     </div>
-  </div>
-</div>
 </footer>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="js/monscript.js"></script>
+<!--<script>
+     new WOW().init();
+ </script>-->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+        integrity="sha384-	Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+
+<script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-localScroll/1.4.0/jquery.localScroll.min.js"></script>
+<script src="js/smooth-scrolling.js"></script>
 </body>
 </html>
