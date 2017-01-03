@@ -19,8 +19,8 @@
 
 <ul style="position: absolute; z-index: 1; margin-left: 25%">
     <li><a href="index.php">Home</a></li>
-    <li><a href="propos.php">A propos</a></li>
     <li><a href="projet.php">Projet</a></li>
+    <li><a href="propos.php">A propos</a></li>
 </ul>
 
 <body>

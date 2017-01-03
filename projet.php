@@ -1,51 +1,48 @@
 <?php include "header.php" ?>
-<section id="first">
-    <div class="panel panel-default" style="background-color: #B4D744; border-radius: 0px !important; margin-top: 10px; ">
-        <div class="panel-body text-center">
-        <p style="font-size: 15px; margin-top: 20px;"><b>Le Projet <big>SISTER</big></b></p>
-        </div>
-    </div>
+
+
+
+<!-- HOME -->
+<div id="home" class="content-section">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 text-center">
-                    <p style="margin-top: 100px;">
-                        Dans un contexte de réduction des émissions de gaz à effet de serre (plan « climat Energie), d’indépendance énergétique, de forte volatilité des matières premières sur les marchés financiers et d’incertitudes géopolitiques, le projet SISTER propose de contribuer au développement de l’hydrogène en tant que ressource par l’émergence de nouvelles filières industrielles de manière performante, sûre et économiquement compétitive. C’est dans cette perspective que le département de recherche, Altran Research, a initié en janvier 2016 un nouveau projet, SISTER, portant spécifiquement sur le stockage de l’hydrogène. Ce projet SISTER est rattaché au programme stratégique SMART ENERGIES visant à rendre plus intelligent nos usages et solutions énergétiques.
-                    </p>
-            </div>
-            <div class="col-md-6">
-                <div class="img-circle">
-                <div class="item" style="border: none !important;">
-                    <img src="img/discover1.png" style="width: 50%; margin-left: 20%;border: none !important;">
-                </div>
-                </div>
+            <div class="col-xs-12">
+                <h1>SISTER</h1>
+                <h5>PERSONAL PROJECT</h5>
             </div>
         </div>
     </div>
-    <br><hr style="border-top: double #B4D744 ;width: 80%;"><br>
+</div>
+
+
+<!-- ABOUT -->
+<div id="about" class="content-section">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
-                <div class="item" style="border: none !important;">
-                    <img src="img/discover2.png" style="width: 50%; margin-left: 28%;">
-                </div>
+            <div class="col-sm-8 col-lg-7">
+                <h1>ABOUT</h1>
+                <p class="lead">Objective: Build a CodePen.io app that successfully reverse-engineers <a href="http://codepen.io/ThiagoFerreir4/full/eNMxEp" target="_blank">this <em class="fa fa-external-link"></em></a></p>
+                <p><strong>Rule #1:</strong> Don't look at the example project's code on CodePen. Figure it out for yourself.</p>
+                <p><strong>Rule #2:</strong> You may use whichever libraries or APIs you need.</p>
+                <p><strong>Rule #3:</strong> Reverse engineer the example project's functionality, and also feel free to personalize it.</p>
+                <p><strong>Hint:</strong> If you don't want to start from scratch, you can fork this simple Bootstrap portfolio template on <a href="http://codepen.io/FreeCodeCamp/pen/mJNqQj" target="_blank">CodePen <em class="fa fa-external-link"></em></a></p>
+                <p>Here are the user stories you must enable, and optional bonus user stories:</p>
+                <p><strong>User Story:</strong> As a user, I can access all of the portfolio webpage's content just by scrolling.</p>
+                <p><strong>User Story:</strong> As a user, I can click different buttons that will take me to the portfolio creator's different social media pages.</p>
+                <p><strong>User Story:</strong> As a user, I can see thumbnail images of different projects the portfolio creator has built (if you haven't built any websites before, use placeholders.)</p>
+                <p><strong>Bonus User Story:</strong> As a user, I navigate to different sections of the webpage by clicking buttons in the navigation.</p>
+                <p>Don't worry if you don't have anything to showcase on your portfolio yet - you will build several apps on the next few CodePen challenges, and can come back and update your portfolio later.</p>
+                <p>There are many great portfolio templates out there, but for this challenge, you'll need to build a portfolio page yourself. Using Bootstrap will make this much easier for you.</p>
+                <blockquote>
+                    <p>Remember to use <mark><em>Read-Search-Ask</em></mark> if you get stuck.</p>
+                </blockquote>
+                <p>When you are finished, click the <strong>"I've completed this challenge"</strong> button and include a link to your CodePen. If you pair programmed, you should also include the Free Code Camp username of your pair.</p>
             </div>
-            <div class="col-md-6 text-center">
-                    <p style="margin-top: 100px;">
-                        L’hydrogène est une ressource discutable d’un point de vue énergétique, de masse très faible, son pouvoir calorifique volumique et molaire est faible au regard des hydrocarbures conventionnels mais il présente l’énorme avantage de n’émettre que de l’eau lors de son oxydation. A masse constante, la quantité d’énergie récupérable à partir de l’hydrogène présente cette fois-ci un avantage. Toutefois, l’hydrogène se retrouve largement pénalisé par l’encombrement et la masse de son contenant de stockage (bonbonne de gaz, vase dewar, etc.). De fait, pour produire autant d’énergie qu’1 kg d’essence, il faudrait pressurer environ 330 g d’hydrogène à 700 bar (d’après IFP Energies Nouvelles, [1]). Ceci nous met devant le défi de parvenir à trouver une solution efficace, peu coûteuse, sûre et d’un poids raisonnable pour stocker cet hydrogène.
-                    </p>
+            <div class="col-sm-4 col-lg-5 hidden-xs">
+                <img src="img/logo.png" alt="" class="pull-right img-responsive">
             </div>
-
         </div>
     </div>
-</section>
-<hr style="border-top: double #B4D744 ;width: 80%;">
-<section>
-    <div class="text-center"><h3> La Vidéo du Projet :</h3></div>
-    <br>
-    <div class="well" style="width: 50%; margin-left: 25%; background-color : #B4D744;">
-        <iframe style="margin-left: 3%;"" width="560" height="315" src="https://www.youtube.com/embed/fAxalCUPzFI" frameborder="0" allowfullscreen>
-        </iframe>
-    </div>
-</section>
-
+</div>
 <?php include "footer.php" ?>
+
