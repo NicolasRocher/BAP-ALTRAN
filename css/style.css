@@ -357,3 +357,9 @@ body,
     background-position: center center;
     background-repeat: no-repeat;
 }
+
+ul {
+    position: absolute;
+    z-index: 1;
+    margin-left: 25%;
+}

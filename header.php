@@ -17,7 +17,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 </head>
 
-<ul style="position: absolute; z-index: 1; margin-left: 25%">
+<ul>
     <li><a href="index.php">Home</a></li>
     <li><a href="projet.php">Projet</a></li>
     <li><a href="propos.php">A propos</a></li>
