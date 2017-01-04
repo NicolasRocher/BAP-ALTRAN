@@ -64,9 +64,25 @@ h1 {
   margin-left: 5%;
 }
 
+#textprojet3{
+  margin-top: 0%;
+}
+
 #videoprojet{
     margin-left: 28%;
     margin-top: 3%;
+}
+
+#projetsec1{
+    background-color: #ecf0f1;
+}
+
+#projetsec2{
+    background-color: #bdc3c7;
+}
+
+#projetsec3{
+    background-color: #ecf0f1;
 }
 
 /* TIMELINE
