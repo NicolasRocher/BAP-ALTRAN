@@ -46,6 +46,28 @@ h1 {
   transform: scale(1.1);
 }
 
+#imgprojet1{
+  margin-left: 20%;
+}
+
+#imgprojet2{
+  margin-left: 23%;
+}
+
+#textprojet1{
+  margin-top: 30%;
+  margin-right: 5%;
+}
+
+#textprojet2{
+  margin-top: 30%;
+  margin-left: 5%;
+}
+
+#videoprojet{
+    margin-left: 28%;
+    margin-top: 3%;
+}
 
 /* TIMELINE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
