@@ -41,7 +41,7 @@
                     <figure class="effect-dexter">
                         <img src="img/discover2.png" alt="img19"/>
                         <figcaption>
-                            <h2>Le <span>Flyer</span></h2>
+                            <h2>L'<span>Affiche</span></h2>
                             <p>Cliquez sur le bouton à gauche pour en savoir plus.</p>
                         </figcaption>           
                     </figure>
