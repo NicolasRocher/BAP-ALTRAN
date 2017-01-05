@@ -25,6 +25,8 @@ h1 {
 
 /* Code pour la page Projet*/
 
+
+
 .grid {
     position: relative;
     margin: 0 auto;
@@ -267,28 +269,6 @@ figure.effect-dexter:hover p {
     opacity: 1;
     -webkit-transform: translate3d(0,0,0);
     transform: translate3d(0,0,0);
-}
-
-
-.item {
-  position: relative;
-  
-  border: 1px solid #333;
-  margin: 2%;
-  overflow: hidden;
-  width: 350px;
-}
-.item img {
-  max-width: 100%;
-  
-  -moz-transition: all 0.3s;
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
-}
-.item:hover img {
-  -moz-transform: scale(1.1);
-  -webkit-transform: scale(1.1);
-  transform: scale(1.1);
 }
 
 #imgprojet1{
