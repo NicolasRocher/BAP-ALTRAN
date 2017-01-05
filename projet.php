@@ -5,9 +5,11 @@
 <!-- HOME -->
 <div id="home" class="content-section">
     <div class="container">
-            <div class="grid__item color-1">
-                <a class="link link--kukuri" href="#" data-letters="Kukuri">Kukuri</a>
+        <div class="animated fadeInRightBig">
+            <div class="grid__item">
+                <a class="link link--takiri" href="#">Sister<span>Un projet d'avenir</span></a>
             </div>
+        </div>
     </div>
 </div>
 
