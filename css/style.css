@@ -738,9 +738,9 @@ ul {
 }
 
 .img-footer{
-    height: 18vh;
-    width: 10vw;
-    margin-left: 10vw;
+    width: 60%;
+    margin-left: 15%;
+    margin-top: 5%;
 }
 .footer-distributed .footer-left,
 .footer-distributed .footer-center,
