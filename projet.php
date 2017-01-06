@@ -41,7 +41,7 @@
          </div>
          </div>
   </div>
-    <div class="col-md-12" id="projetsec2">
+    <div class="col-md-12" style="background-image: url('img/fondpro3.jpeg'); background-size: cover;background-attachment: fixed;">
          <div class="col-md-6 bonjour2">
          <div  class="tilt2"><a class="button">Clique moi</a></div>
          <!-- REVEAL -->
