@@ -41,24 +41,6 @@ $(document).ready(function(){
     });
 });
 
-
-
-/* code pour la page projet 
-
-function bascule(){
-    var etat = document.getElementById('divprohide').style.display;
-    var bouton = document.getElementById('afficheCache');
-
-    if (etat == 'none'){
-        document.getElementById('divprohide').style.display='block';
-        bouton.value = 'Cacher la balise div';
-    }
-    else{
-        document.getElementById('divprohide').style.display='none';
-        bouton.value = 'Afficher la balise div';
-    }
-<<<<<<< HEAD
-}*/
 =======
 }
 var menu = document.querySelector('.nav__list');
