@@ -45,5 +45,21 @@
     });
 
 </script>
+<script type="text/javascript">
+
+
+    $(document).ready(function(){
+        $(".tilt2").click(function(){
+            $(".bonjour2").fadeOut(100);
+            $(".reveal2").slideDown()(1000);
+        });
+
+        $(".retour2").click(function(){
+            $(".bonjour2").fadeIn(1000);
+            $(".reveal2").hide();
+        });
+    });
+
+</script>
 </body>
 </html>
