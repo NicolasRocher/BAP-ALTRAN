@@ -881,7 +881,8 @@ ul {
           border-radius: 5px;
           -moz-border-radius: 5px;
           -webkit-border-radius: 5px;
-          border: 1px solid #57D6C7;
-          cursor: pointer;
+          border: 1px solid white;
+    margin-bottom: 5%;
+    margin-top: 5%;
 
 }
