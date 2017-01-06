@@ -40,8 +40,12 @@ $(document).ready(function(){
         $(this).addClass('selected');
     });
 });
+<<<<<<< HEAD
 
 
+=======
+}
+>>>>>>> f9e7b8d0b20a0a764450853fa8c63a1f5ea1c7ae
 var menu = document.querySelector('.nav__list');
 var burger = document.querySelector('.burger');
 var doc = $(document);
@@ -98,7 +102,10 @@ var init = function() {
 
 doc.on('ready', init);
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> f9e7b8d0b20a0a764450853fa8c63a1f5ea1c7ae
 
 
