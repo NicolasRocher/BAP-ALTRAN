@@ -30,7 +30,7 @@
                 </div>
          </div>
          <div class="col-md-6 bonjour">
-            <a class="tilt">Clique moi</a>
+         <div  class="tilt"><a class="button">Clique moi</a></div>
          <!-- REVEAL -->
          </div>
          <div class="col-md-6">
@@ -43,7 +43,7 @@
   </div>
     <div class="col-md-12" id="projetsec2">
          <div class="col-md-6 bonjour2">
-            <a class="tilt2">Clique moi</a>
+         <div  class="tilt2"><a class="button">Clique moi</a></div>
          <!-- REVEAL -->
          </div>
          <div class="col-md-6">
