@@ -39,6 +39,10 @@ h1 {
     margin-left: 60%;
 }
 
+.retour{
+    margin-right: 5%;
+}
+
 button,
 .button {
   display: inline-block;
