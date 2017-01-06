@@ -1,38 +1,10 @@
 <?php include "header.php" ?>
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <div id="carouselFade" class="carousel slide carousel-fade" data-ride="carousel">
-
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner" role="listbox">
-            <div class="item active">
-                <div class="carousel-caption">
-                    <h3>First slide label</h3>
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-                </div>
-            </div>
-            <div class="item">
-                <div class="carousel-caption">
-                    <h3>Second slide label</h3>
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-                </div>
-            </div>
-            <div class="item">
-                <div class="carousel-caption">
-                    <h3>Third slide label</h3>
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-                </div>
-            </div>
-        </div>
-
-        <!-- Controls -->
-        <a class="left carousel-control" href="#carouselFade" role="button" data-slide="prev">
-            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="right carousel-control" href="#carouselFade" role="button" data-slide="next">
-            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
+    <div class="hero" style="background-image: url(	'http://s17.postimg.org/m4bfqfgn3/fog_1005445_1920.jpg')">
+    <div class="hero__content">
+        <h1>BAP Altran Projet Sister</h1>
+        <a class="btn" href="projet.php">Projet</a>
+        <a class="btn" href="propos.php">A propos</a>
     </div>
-
+</div>
 <?php include "footer.php" ?>
