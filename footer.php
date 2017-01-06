@@ -31,5 +31,21 @@
     </div>
 </footer>
 <script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript">
+
+
+    $(document).ready(function(){
+        $(".tilt").click(function(){
+            $(".bonjour").fadeOut(100);
+            $(".reveal").slideDown()(1000);
+        });
+
+        $(".retour").click(function(){
+            $(".bonjour").fadeIn(1000);
+            $(".reveal").hide();
+        });
+    });
+
+</script>
 </body>
 </html>

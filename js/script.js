@@ -43,7 +43,7 @@ $(document).ready(function(){
 
 
 
-/* code pour la page projet */
+/* code pour la page projet 
 
 function bascule(){
     var etat = document.getElementById('divprohide').style.display;
@@ -57,7 +57,7 @@ function bascule(){
         document.getElementById('divprohide').style.display='none';
         bouton.value = 'Afficher la balise div';
     }
-}
+}*/
 
 
 

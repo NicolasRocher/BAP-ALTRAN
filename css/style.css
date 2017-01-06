@@ -25,10 +25,21 @@ h1 {
 
 /* Code pour la page Projet*/
 
+#afficheCache{
+    margin-top: 30%;
+    margin-left: 40%;
+}
+
 #divprohide{
     background-color: red;
     width: 500px;
-    height: 500px;
+    height: 300px;
+    margin-top: 15%;
+    margin-left: 10%;
+}
+
+.reveal {
+    display: none;
 }
 
 
@@ -830,3 +841,4 @@ ul {
     }
 
 }
+
