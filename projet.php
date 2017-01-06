@@ -3,7 +3,7 @@
 
 
 <!-- HOME -->
-<div id="home" class="content-section">
+<div class="content-section" style="background-image: url('img/fondpro.jpg'); background-size: cover;background-attachment: fixed;">
     <div class="container">
         <div class="animated fadeInRightBig">
             <div class="grid__item">

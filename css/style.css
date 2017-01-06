@@ -29,6 +29,8 @@ h1 {
 
 /* Code pour la page Projet*/
 
+
+
 .tilt{
     margin-top: 35%;
     margin-left: 15%;
@@ -290,7 +292,7 @@ figure.effect-dexter:hover p {
     position: relative;
     font-size: 8em;
     line-height: 1;
-    color: #9e9ba4;
+    color: white;
     display: inline-block;
 }
 
