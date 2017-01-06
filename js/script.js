@@ -40,7 +40,6 @@ $(document).ready(function(){
         $(this).addClass('selected');
     });
 });
-}
 var menu = document.querySelector('.nav__list');
 var burger = document.querySelector('.burger');
 var doc = $(document);
@@ -96,6 +95,7 @@ var init = function() {
 };
 
 doc.on('ready', init);
+
 
 
 
