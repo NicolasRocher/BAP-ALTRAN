@@ -34,14 +34,18 @@
          </div>
   </div>
     <div class="col-md-12" id="projetsec2">
-         <div class="col-md-6">
-            <div id="divprohide">
-                <p>L’hydrogène est une ressource discutable d’un point de vue énergétique, de masse très faible, son pouvoir calorifique volumique et molaire est faible au regard des hydrocarbures conventionnels mais il présente l’énorme avantage de n’émettre que de l’eau lors de son oxydation. A masse constante, la quantité d’énergie récupérable à partir de l’hydrogène présente cette fois-ci un avantage. Toutefois, l’hydrogène se retrouve largement pénalisé par l’encombrement et la masse de son contenant de stockage (bonbonne de gaz, vase dewar, etc.). De fait, pour produire autant d’énergie qu’1 kg d’essence, il faudrait pressurer environ 330 g d’hydrogène à 700 bar (d’après IFP Energies Nouvelles, [1]). Ceci nous met devant le défi de parvenir à trouver une solution efficace, peu coûteuse, sûre et d’un poids raisonnable pour stocker cet hydrogène.</p>
-            </div>
-            <form>
-                <input type="button" id="afficheCache" onclick="bascule()" value="Cacher la balise div">
-            </form>
+         <div class="col-md-6 bonjour">
+            <a class="tilt">Clique moi</a>
+         <!-- REVEAL -->
          </div>
+         <div class="col-md-6">
+         <div class="reveal">
+            <h1>Bonjour je m'affiche quand tu cliques sur le lien !</h1>
+            <p>L’hydrogène est une ressource discutable d’un point de vue énergétique, de masse très faible, son pouvoir calorifique volumique et molaire est faible au regard des hydrocarbures conventionnels mais il présente l’énorme avantage de n’émettre que de l’eau lors de son oxydation. A masse constante, la quantité d’énergie récupérable à partir de l’hydrogène présente cette fois-ci un avantage. Toutefois, l’hydrogène se retrouve largement pénalisé par l’encombrement et la masse de son contenant de stockage (bonbonne de gaz, vase dewar, etc.). De fait, pour produire autant d’énergie qu’1 kg d’essence, il faudrait pressurer environ 330 g d’hydrogène à 700 bar (d’après IFP Energies Nouvelles, [1]). Ceci nous met devant le défi de parvenir à trouver une solution efficace, peu coûteuse, sûre et d’un poids raisonnable pour stocker cet hydrogène.</p>
+            <a class="retour">Retour à la normale !</a>
+         </div>
+         </div>
+
          <div class="col-md-6">
                 <div class="grid" id="imgprojet2">
                     <figure class="effect-dexter">

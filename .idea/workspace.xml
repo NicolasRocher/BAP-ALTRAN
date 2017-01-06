@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3acb70f1-4eef-4d1d-a188-7b631f382897" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projet.php" afterPath="$PROJECT_DIR$/projet.php" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +49,16 @@
         <entry file="file://$PROJECT_DIR$/projet.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-              <folding />
+              <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding>
+                <marker date="1483696324000" expanded="true" signature="3144:3615" ph="..." />
+                <marker date="1483696324000" expanded="true" signature="3195:3599" ph="..." />
+                <marker date="1483696324000" expanded="true" signature="3246:3576" ph="..." />
+                <marker date="1483696324000" expanded="true" signature="3350:3535" ph="..." />
+                <marker date="1483696324000" expanded="true" signature="3655:3762" ph="..." />
+                <marker date="1483696324000" expanded="true" signature="3666:3741" ph="..." />
+                <marker date="1483696324000" expanded="true" signature="3747:3755" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="795">
-              <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+              <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -97,8 +108,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="865" column="30" lean-forward="true" selection-start-line="865" selection-start-column="30" selection-end-line="865" selection-end-column="30" />
+            <state relative-caret-position="681">
+              <caret line="884" column="26" lean-forward="false" selection-start-line="884" selection-start-column="26" selection-end-line="884" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -283,12 +294,12 @@
       <updated>1482680519942</updated>
       <workItem from="1482680521196" duration="269000" />
       <workItem from="1483436596743" duration="3323000" />
-      <workItem from="1483693298120" duration="2450000" />
+      <workItem from="1483693298120" duration="2667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6369000" />
+    <option name="totallyTimeSpent" value="6586000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -585,15 +596,23 @@
     <entry file="file://$PROJECT_DIR$/projet.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <marker date="1483696324000" expanded="true" signature="3144:3615" ph="..." />
+            <marker date="1483696324000" expanded="true" signature="3195:3599" ph="..." />
+            <marker date="1483696324000" expanded="true" signature="3246:3576" ph="..." />
+            <marker date="1483696324000" expanded="true" signature="3350:3535" ph="..." />
+            <marker date="1483696324000" expanded="true" signature="3655:3762" ph="..." />
+            <marker date="1483696324000" expanded="true" signature="3666:3741" ph="..." />
+            <marker date="1483696324000" expanded="true" signature="3747:3755" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
-          <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -610,8 +629,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="865" column="30" lean-forward="true" selection-start-line="865" selection-start-column="30" selection-end-line="865" selection-end-column="30" />
+        <state relative-caret-position="681">
+          <caret line="884" column="26" lean-forward="false" selection-start-line="884" selection-start-column="26" selection-end-line="884" selection-end-column="26" />
           <folding />
         </state>
       </provider>
