@@ -1,5 +1,3 @@
-
-
 <footer class="footer-distributed">
     <div class="footer-left">
         <img class="img-footer" src="img/logo.png" width="100%">
