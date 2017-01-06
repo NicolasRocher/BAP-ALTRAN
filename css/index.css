@@ -24,11 +24,10 @@ figure.slider figure {
     width: 20%; height: auto;
     display: inline-block;  position: inherit;
 }
-figure.slider img { width: 100%; height: auto; }
+figure.slider img { width: 1550px; height: auto; }
 figure.slider figure figcaption {
     position: absolute; bottom: 0;
     background: rgba(0,0,0,0.4);
     color: #fff; width: 100%;
     font-size: 3rem; padding: .6rem;
 }
-
