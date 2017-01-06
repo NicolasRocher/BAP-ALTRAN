@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+.row{
+    width: 101.2%;
+}
+
 .intro {
     background: #F45B69;
     padding: 100px 0;
