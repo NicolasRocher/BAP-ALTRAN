@@ -41,11 +41,14 @@ $(document).ready(function(){
     });
 });
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
 }
 >>>>>>> f9e7b8d0b20a0a764450853fa8c63a1f5ea1c7ae
+=======
+>>>>>>> 55a9e47b436b3ef10186075fe61612b4a5b3e6b8
 var menu = document.querySelector('.nav__list');
 var burger = document.querySelector('.burger');
 var doc = $(document);
@@ -107,5 +110,6 @@ doc.on('ready', init);
 
 =======
 >>>>>>> f9e7b8d0b20a0a764450853fa8c63a1f5ea1c7ae
+
 
 
