@@ -1,10 +1,27 @@
 <?php include "header.php" ?>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <div class="hero" style="background-image: url(	'http://s17.postimg.org/m4bfqfgn3/fog_1005445_1920.jpg')">
-    <div class="hero__content">
-        <h1>BAP Altran Projet Sister</h1>
-        <a class="btn" href="projet.php">Projet</a>
-        <a class="btn" href="propos.php">A propos</a>
-    </div>
+<link rel="stylesheet" type="text/css" href="css/index.css">
+<base href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/">
+<div id="captioned-gallery">
+    <figure class="slider">
+        <figure>
+            <img src="hobbiton-lake.jpg" alt>
+            <figcaption>BAP Altran, projet sister</figcaption>
+        </figure>
+        <figure>
+            <img src="wanaka-drowned-tree.jpg" alt>
+            <figcaption>BAP Altran, projet sister</figcaption>
+        </figure>
+        <figure>
+            <img src="utah-peak.jpg" alt>
+            <figcaption>BAP Altran, projet sisters</figcaption>
+        </figure>
+        <figure>
+            <img src="bryce-canyon-utah.jpg" alt>
+            <figcaption>BAP Altran, projet sister</figcaption>
+        </figure>
+        <figure>
+            <img src="hobbiton-lake.jpg" alt>
+            <figcaption>BAP Altran, projet sister</figcaption>
+        </figure>
+    </figure>
 </div>
-<?php include "footer.php" ?>
