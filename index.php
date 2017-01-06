@@ -1,4 +1,5 @@
 <?php include "header.php" ?>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
     <div id="carouselFade" class="carousel slide carousel-fade" data-ride="carousel">
 
         <!-- Wrapper for slides -->
