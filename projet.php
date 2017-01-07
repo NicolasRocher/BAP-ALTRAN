@@ -17,7 +17,7 @@
 
 
 <!-- ABOUT -->
-<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 <div class="row">
     <div class="col-md-12" id="projetsec1">
          <div class="col-md-6">
@@ -75,9 +75,10 @@
 <div>
     <h3 class="text-center" id="textprojet3">Vidéo du projet :</h3>
 </div>
-<div>
-
-</div>
+<video width="720" height="405" controls class="videoplayer" >
+    <source src="video/video.mp4" type="video/mp4">
+    Your browser does not support the video tag or the file format of this video. <a href="http://www.supportduweb.com/">http://www.supportduweb.com/</a>
+</video>
 </div>
 <?php include "footer.php" ?>
 
