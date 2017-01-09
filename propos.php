@@ -10,7 +10,7 @@
     <div class="row">
       <img class="col-md-4" src="img/picto1.png">
       <img class="col-md-4" src="img/picto2.png">
-      <img class="col-md-4"src="img/picto3.png">
+      <img class="col-md-4" src="img/picto3.png">
     </div>
   </div>
 </section>
