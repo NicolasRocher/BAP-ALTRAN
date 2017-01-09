@@ -34,3 +34,36 @@
 </nav>
 
 <body>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript">
+
+
+    $(document).ready(function(){
+        $(".tilt").click(function(){
+            $(".bonjour").fadeOut(100);
+            $(".reveal").slideDown()(1000);
+        });
+
+        $(".retour").click(function(){
+            $(".bonjour").fadeIn(1000);
+            $(".reveal").hide();
+        });
+    });
+
+</script>
+<script type="text/javascript">
+
+
+    $(document).ready(function(){
+        $(".tilt2").click(function(){
+            $(".bonjour2").fadeOut(100);
+            $(".reveal2").slideDown()(1000);
+        });
+
+        $(".retour2").click(function(){
+            $(".bonjour2").fadeIn(1000);
+            $(".reveal2").hide();
+        });
+    });
+
+</script>

@@ -98,5 +98,3 @@ var init = function() {
 };
 
 doc.on('ready', init);
-
-}}
