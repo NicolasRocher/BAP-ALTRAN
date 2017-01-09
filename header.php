@@ -22,7 +22,7 @@
 
     <ul class="nav__list">
         <li class="nav__item">
-            <a href="index.php" class="nav__link c-blue">Index</a>
+            <a href="index.php" class="nav__link">Index</a>
         </li>
         <li class="nav__item">
             <a href="projet.php" class="nav__link c-yellow scrolly">Projet</a>

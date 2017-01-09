@@ -17,7 +17,7 @@
 
 
 <!-- ABOUT -->
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 <div class="row">
     <div class="col-md-12" id="projetsec1">
          <div class="col-md-6">
